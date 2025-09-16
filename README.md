@@ -1,6 +1,6 @@
 # Simple Web Calculator
 
-# Developer Details
+## Developer Details
 **NAME**: P.Vineela
 **Institution**: Ashoka womens engineering college
 **Roll Number**:222T1A3144
